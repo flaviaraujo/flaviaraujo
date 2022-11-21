@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Flávia Araújo</h1>
 <h3 align="center">I'm a software engineering student @ University of Minho 🌱</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
 
 - 👩‍💻 Currently learning: **Adobe Illustrator, Adobe After Effects, Python**
 

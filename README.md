@@ -4,7 +4,7 @@
 
 - 👩‍💻 Currently learning: **CSS, HTML, Java**
 
-- ✨ Fun facts: **I'm an artist and take comissions! Ig: @707flavs**
+- ✨ Fun facts: **I'm an artist and work with all kinds of media!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

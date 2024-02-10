@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Flávia :)</h1>
-<h3 align="center">I'm a software engineering student @ University of Minho 🌱</h3>
+<h3 align="center">I'm a software engineering student @ University of Minho ⋆｡°·☁︎ </h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,10 @@
 
 
 <p align="center">
-    :)
+                           ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
 </p>
 
 

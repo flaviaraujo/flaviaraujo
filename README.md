@@ -16,7 +16,7 @@
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　˚　</p>
 
 
-<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/flaviaraujo.png" alt="TryHackMe"><script src="https://tryhackme.com/badge/2119414"></script></p>
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/flaviaraujo.png" alt="TryHackMe"></p>
 
 
 <p align="center">

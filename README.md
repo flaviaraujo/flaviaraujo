@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineering student @ University of Minho ⋆｡°·☁︎ </h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/flaviaraujo28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flaviaraujo28" height="30" width="40" /></a>
 <a href="https://instagram.com/flavsxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flavsxz" height="30" width="40" /></a>
